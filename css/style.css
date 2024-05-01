@@ -1,0 +1,13 @@
+.block-2 {
+    width: auto;
+    height: auto;
+    background-color: red;
+    display: flex;
+}
+
+.first_task {
+    width: auto;
+    height: auto;
+    background-color: blue;
+    display: flex;
+}
